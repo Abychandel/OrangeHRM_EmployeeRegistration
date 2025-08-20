@@ -1,0 +1,16 @@
+# Eclipse / Java
+.classpath
+.project
+.settings/
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Drivers
+chromedriver.exe
+geckodriver.exe
+
+# Logs
+*.log
