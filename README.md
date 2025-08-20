@@ -21,6 +21,5 @@ This project automates **Employee Registration** on the OrangeHRM application us
 
 ---
 
-## 📂 Project Structure
 
 
